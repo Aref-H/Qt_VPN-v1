@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>Backgrounds/Off.jpg</file>
+        <file>Backgrounds/On.jpg</file>
+        <file>Icons/Off.png</file>
+        <file>Icons/On.png</file>
+    </qresource>
+</RCC>
