@@ -4,7 +4,7 @@
 * Date :       01/27/2025
 */
 
-This is a vpn interface that will change your widows dns to 
+This is a vpn interface that will change your windows dns to 
 google public dns and by turning it off , it will change your dns 
 back to default by using QProcess and Netsh.
 
